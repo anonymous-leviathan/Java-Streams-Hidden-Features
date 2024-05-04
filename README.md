@@ -14,10 +14,7 @@ This repository contains examples and exercises demonstrating the use of Java St
 To run the examples in this repository, make sure you have Java 8 or higher installed on your system. You can clone this repository and execute the examples using any Java IDE or by compiling and running from the command line.
 
 ```bash
-git clone https://github.com/your-username/java-streams-examples.git
-cd java-streams-examples
-javac examples/*.java
-java examples.Main
+https://github.com/mGunawardhana/Java-Streams-Hidden-Features.git
 ```
 
 ## Contributing
