@@ -9,13 +9,6 @@ This repository contains examples and exercises demonstrating the use of Java St
 - **Lazy Evaluation**: Explains the concept of lazy evaluation and its benefits.
 - **Immutable**: Highlights the immutability aspect of streams.
 
-## Examples
-
-- [Example 1: Basic Stream Operations](examples/BasicOperations.java)
-- [Example 2: Parallel Stream Processing](examples/ParallelProcessing.java)
-- [Example 3: Lazy Evaluation](examples/LazyEvaluation.java)
-- [Example 4: Immutable Streams](examples/ImmutableStreams.java)
-
 ## Getting Started
 
 To run the examples in this repository, make sure you have Java 8 or higher installed on your system. You can clone this repository and execute the examples using any Java IDE or by compiling and running from the command line.
@@ -33,8 +26,4 @@ Contributions to this repository are welcome! Feel free to submit pull requests 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-You can customize the sections, examples, and file paths based on your repository's structure and content. Make sure to replace placeholders like `mGunawardhana` with your actual GitHub username.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/mGunawardhana/Java-Streams-Hidden-Features/new/master) file for details.
